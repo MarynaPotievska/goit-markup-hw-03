@@ -333,6 +333,7 @@ header {
   color: var(--font-color-main);
   line-height: 2;
   letter-spacing: var(--letter-spacing-title);
+  margin-bottom: 4px;
 }
 
 .product-type {
